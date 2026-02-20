@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm David Oluwadare</h1>
-<h3 align="center">An Automation Engineer with a dynamic background in PLC, DCS, and SCADA systems, and progressive experience in instrumentation and control.</h3>
+<h3 align="center">An Automation Specialist with a dynamic background in PLC, DCS, and SCADA systems, and progressive experience in instrumentation and control.</h3>
 <img align="right" alt="Coding" width="400" src="https://thestempedia.com/wp-content/uploads/2020/07/Cat-vs-Dog.gif">
 
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dhareytweet" target="blank"><img src="https://img.shields.io/twitter/follow/dhareytweet?logo=twitter&style=for-the-badge" alt="dhareytweet" /></a> </p>
 
-- 🌱 I’m currently learning **Schneider DCS**
+- 🌱 I’m currently learning **Schneider FoxBoro DCS**
 
 - 💬 Ask me about **Signals, Loop, IR Panel**
 
